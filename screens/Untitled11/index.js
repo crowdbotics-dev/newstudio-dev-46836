@@ -3,7 +3,7 @@ import { View, StyleSheet } from "react-native";
 
 const Untitled11 = () => {
   return <View style={_styles.QCzBxpsS}>
-      <View style={_styles.QgWAqqfE}></View></View>;
+      </View>;
 };
 
 export default Untitled11;
